@@ -17,8 +17,7 @@ Até o momento, as principais realizações incluem:
     *   Análise da distribuição geográfica das vendas.
     *   Correlação entre dados demográficos dos clientes (gênero, cargo) e seus hábitos de compra.
     *   Estudo de tendências de preços por categoria de produto ou tipo de cartão.
-
-(Aguarde por análises visuais e insights mais detalhados em futuras atualizações para dashboards! Lembre-se de usar `DISTINCT` ao criar métricas relacionadas a clientes no dashboard, para evitar dados repetidos devido a múltiplas transações.)
+*   **Visualização Interativa:** Desenvolvimento de um dashboard interativo para uma visualização clara e dinâmica das principais métricas e insights extraídos dos dados consolidados.
 
 ---
 
@@ -27,7 +26,7 @@ Até o momento, as principais realizações incluem:
 *   **Linguagens de Análise:** Python, SQL (SQLite)
 *   **Bibliotecas:** pandas, sqlite3
 *   **Fontes de Dados:** Arquivos CSV (TB_TRANSACOES_PROJETO_ECOMM.csv, TB_CLIENTES_PROJETO_ECOMM.csv)
-*   **Saída:** Arquivo CSV consolidado (`dados_ecommerce_final.csv`), Dashboard (a ser desenvolvido com PowerBI ou Looker Studio)
+*   **Saída:** Arquivo CSV consolidado (`dados_ecommerce_final.csv`), Dashboard (Looker Studio)
 
 ---
 
